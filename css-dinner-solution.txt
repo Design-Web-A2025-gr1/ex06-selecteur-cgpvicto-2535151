@@ -1,0 +1,32 @@
+Exercice 1: Plate
+Exercice 2: bento
+Exercice 3: #fancy
+Exercice 4: Plate apple
+Exercice 5: #fancy pickle
+Exercice 6: .small
+Exercice 7: orange.small
+Exercice 8: bento orange.small
+Exercice 9: Plate, bento
+Exercice 10: *
+Exercice 11: Plate *
+Exercice 12: Plate + aapple
+Exercice 13: bento ~ pickle
+Exercice 14: Plate > apple
+Exercice 15: Plate
+Exercice 16: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
+Exercice 1: Plate
