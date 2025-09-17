@@ -26,4 +26,13 @@ a:hover{
     text-decoration:none;
     background-color: yellow;
 }
-.
+.consignes{
+    border: 2px solid #daa520;
+    border-radius: 10px;
+    width: 600px;
+    padding: 10 px;
+    background-image: url(/assets/images/ex04_image_fond.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
