@@ -17,3 +17,13 @@ color: green;
 .titre:hover{
     color: greenyellow;
 }
+a {
+  color: inherit;
+  text-decoration-style: wavy;
+  text-decoration-color: red;
+}
+a:hover{
+    text-decoration:none;
+    background-color: yellow;
+}
+.
